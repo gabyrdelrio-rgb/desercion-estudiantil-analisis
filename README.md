@@ -23,4 +23,5 @@ El análisis se ejecutó sobre una base consolidada de **4.424 registros de estu
 
 ---
 
-
+### 🖼️ Previsualización del Dashboard de Control
+![Dashboard de Deserción](desercion_estudiantil.png)
